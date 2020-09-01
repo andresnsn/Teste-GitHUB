@@ -37,7 +37,7 @@ public class Main {
     testando.printType(teste);
 
     String randomthing = "teste";
-
+    String randomthing2 = "teste";
     
     }
 }
